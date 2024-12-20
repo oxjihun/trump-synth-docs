@@ -18,6 +18,8 @@ cd TRUMP_CTP431_final/WEB
 python3 -m http.server
 ```
 
+Note that WebChucK might take some time (~ 40s) to initialize. We can know that WebChucK is prepared when the top left indicator is gone.
+
 ---
 
 ## Adding a New Card
