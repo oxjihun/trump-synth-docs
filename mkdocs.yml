@@ -1,0 +1,6 @@
+site_name: CTP431 Final Project
+theme:
+  name: readthedocs
+markdown_extensions:
+  - attr_list
+
